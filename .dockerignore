@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Git
+.git/
+.gitignore
+
+# macOS
+.DS_Store
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local files
+*.bak
+*.backup
+
+# Notebooks and large data
+*.ipynb_checkpoints/
+*.ipynb
+
+# Cache
+.cache/
+
+# Node/yarn (if any)
+node_modules/ 
